@@ -1,3 +1,3 @@
-![alt text](https://github.com/benyoo1104/Discord-Assistant-Bot/blob/main/Discord%20Assistant%20Bot%20Poster.pdf)
+[Discord Assistant Bot Poster](https://github.com/benyoo1104/Discord-Assistant-Bot/files/15090258/Discord.Assistant.Bot.Poster.pdf)
 
-![alt text](https://github.com/benyoo1104/Discord-Assistant-Bot/blob/main/Discord%20Assistant%20Bot%20IEEE.doc)
+[Discord Assistant Bot Paper](https://github.com/benyoo1104/Discord-Assistant-Bot/files/15090274/Discord.Assistant.Bot.IEEE.pdf)
